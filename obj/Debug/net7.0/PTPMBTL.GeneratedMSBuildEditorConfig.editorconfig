@@ -9,89 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PTPMBTL
 build_property.RootNamespace = PTPMBTL
-build_property.ProjectDir = D:\BTLPTPMQL_LVT\PTPMBTL\
+build_property.ProjectDir = D:\BTLPTPMQL_LVT\PTPMQL\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\BTLPTPMQL_LVT\PTPMBTL
+build_property.MSBuildProjectDirectory = D:\BTLPTPMQL_LVT\PTPMQL
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/Create.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Account/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/Delete.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Account/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/Details.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Account/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/Edit.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Account/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/Index.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/Login.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/reCaptcha.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxyZUNhcHRjaGEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Account/Register.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/CheckAccount/Create.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/CheckAccount/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tBY2NvdW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/CheckAccount/Delete.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/CheckAccount/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tBY2NvdW50XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/CheckAccount/Details.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/CheckAccount/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tBY2NvdW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/CheckAccount/Edit.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/CheckAccount/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tBY2NvdW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/CheckAccount/Index.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/CheckAccount/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tBY2NvdW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Home/Index.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Home/Privacy.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Shared/Error.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/KhachHang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/KhachHang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/KhachHang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/KhachHang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/KhachHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/_ViewImports.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/_ViewStart.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BTLPTPMQL_LVT/PTPMBTL/Views/Shared/_Layout.cshtml]
+[D:/BTLPTPMQL_LVT/PTPMQL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ojj98rfeei

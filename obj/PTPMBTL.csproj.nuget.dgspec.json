@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BTLPTPMQL_LVT\\PTPMBTL\\PTPMBTL.csproj": {}
+    "D:\\BTLPTPMQL_LVT\\PTPMQL\\PTPMBTL.csproj": {}
   },
   "projects": {
-    "D:\\BTLPTPMQL_LVT\\PTPMBTL\\PTPMBTL.csproj": {
+    "D:\\BTLPTPMQL_LVT\\PTPMQL\\PTPMBTL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BTLPTPMQL_LVT\\PTPMBTL\\PTPMBTL.csproj",
+        "projectUniqueName": "D:\\BTLPTPMQL_LVT\\PTPMQL\\PTPMBTL.csproj",
         "projectName": "PTPMBTL",
-        "projectPath": "D:\\BTLPTPMQL_LVT\\PTPMBTL\\PTPMBTL.csproj",
+        "projectPath": "D:\\BTLPTPMQL_LVT\\PTPMQL\\PTPMBTL.csproj",
         "packagesPath": "C:\\Users\\This PC\\.nuget\\packages\\",
-        "outputPath": "D:\\BTLPTPMQL_LVT\\PTPMBTL\\obj\\",
+        "outputPath": "D:\\BTLPTPMQL_LVT\\PTPMQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\This PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

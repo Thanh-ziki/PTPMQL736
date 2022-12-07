@@ -15,4 +15,6 @@ using PTPMQL.Models;
         public DbSet<PTPMQL.Models.Account> Account { get; set; } = default!;
 
         public DbSet<PTPMQL.Models.CheckAccount> CheckAccount { get; set; } = default!;
+
+        public DbSet<PTPMQL.Models.KhachHang> KhachHang { get; set; } = default!;
     }
