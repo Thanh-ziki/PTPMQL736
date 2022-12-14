@@ -21,7 +21,7 @@ namespace PTPMBTL.Controllers
         // GET: Passenger
         public async Task<IActionResult> Index()
         {
-              return _context.Passengers !=null ? 
+              return _context.Passenger !=null ? 
                           View(await _context.Passenger.ToListAsync()) :
                           Problem("Entity set 'ApplicationDbContext.Passenger'  is null.");
         }
