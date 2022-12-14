@@ -1,0 +1,53 @@
+@model IEnumerable<PTPMQL.Models.QuanLiChuyenBay>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SoHanhKhach)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiemKhoiHanh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiemDen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThoiGianXuatPhat)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoHanhKhach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiemKhoiHanh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiemDen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThoiGianXuatPhat)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaChuyenBay">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaChuyenBay">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaChuyenBay">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
